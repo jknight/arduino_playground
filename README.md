@@ -5,6 +5,10 @@
 
 We got "The Most Complete Starter Kit UNO R3 Project" from Amazon.
 
+And we got a book from [No Starch Press](https://nostarch.com/arduino-workshop-2nd-edition)
+
+<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/ArduinoWorkshop2e_front.png"/>
+
 It has a lot of pieces. No idea what we're doing, but let's play.
 
 1. [Hello World Blinky Lights](hello_world_blinky_lights/hello_world_blinky_lights.ino) - Make some lights blink so we know it's alive.
